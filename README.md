@@ -1,4 +1,4 @@
-# movies
+# search-movies
 
 A simple and responsive Vue web application that fetches and displays movies searched by the user from OMDb API. It is built using test-driven development (TDD) paradigm and contains unit testing using Jest.
 
