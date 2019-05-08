@@ -1,34 +1,5 @@
-# movies
+# search-movies
 
-## Project setup
-```
-npm install
-```
+A simple and responsive Vue web application that fetches and displays movies searched by the user from OMDb API. It is built using test-driven development (TDD) paradigm and contains unit testing using Jest.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+The application is deployed on ZEIT Now. To see it live, please visit https://search-movies.now.sh/
